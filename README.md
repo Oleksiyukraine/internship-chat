@@ -1,4 +1,4 @@
-# Quasar App (green-water)
+# Quasar App (chat)
 
 A Quasar Framework app
 
